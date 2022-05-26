@@ -1,0 +1,44 @@
+.txsquare {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+  }
+  
+  .txrectangle {
+    height: 150px;
+    width: 425px;
+    background-color: red;
+  }
+  
+  .txwhite  {
+    height: 150px;
+    width: 275px;
+    background-color: #f2f2f2;
+    position: relative;
+    bottom: 300px;
+    left: 150px;
+  }
+  .NCred {
+    height: 150px;
+    width: 275px;
+    background-color: red;
+    bottom: 300px;
+    left: 150px;
+    
+  }
+  .NCblue {
+    height: 300px;
+    width: 150px;
+    background-color: blue;
+    position: relative;
+  }
+
+  div.cow {
+    font-size : x-large;
+    background-color : cyan;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+}
